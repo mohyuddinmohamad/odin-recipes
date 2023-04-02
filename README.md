@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe page for The Odin Project. Will be adding recipes that I like to cook.
